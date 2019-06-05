@@ -1,5 +1,5 @@
 {
-  "name": "draggable",
+  "name": "@monocode/draggable",
   "version": "0.1.0",
   "description": "AngularJS directive making any HTML element draggable within browser window.",
   "source": "src/index.js",
@@ -18,5 +18,11 @@
   },
   "contributors": [
     "Paweł Smoleński"
+  ],
+  "keywords": [
+    "drag",
+    "drop",
+    "angular",
+    "angularjs"
   ]
 }
