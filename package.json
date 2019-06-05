@@ -1,0 +1,22 @@
+{
+  "name": "draggable",
+  "version": "1.0.0",
+  "description": "AngularJS directive making any HTML element draggable within browser window.",
+  "source": "src/index.js",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "microbundle build",
+    "watch": "microbundle watch"
+  },
+  "author": "Monocode",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.8"
+  },
+  "devDependencies": {
+    "microbundle": "^0.11.0"
+  },
+  "contributors": [
+    "Paweł Smoleński"
+  ]
+}
