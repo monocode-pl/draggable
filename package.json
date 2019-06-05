@@ -1,6 +1,6 @@
 {
   "name": "draggable",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "AngularJS directive making any HTML element draggable within browser window.",
   "source": "src/index.js",
   "main": "dist/index.js",
